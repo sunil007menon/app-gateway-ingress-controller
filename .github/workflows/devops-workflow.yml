@@ -20,7 +20,7 @@ env:
   REGISTRYLOCATION: "southcentralus"
   CLUSTERNAME: "agic-sampleapp-cluster"
   KUBERNETESAPI: "apps/v1"
-  AGENTCOUNT: "3"
+  AGENTCOUNT: "1"
   AGENTVMSIZE: "Standard_DS2_v2"
   KUBERNETESVERSION: 1.19.6 
   AKSENABLERBAC: true
